@@ -34,6 +34,29 @@ h4{
 
 }
 
+a:hover{
+	color:#878787;
+	-webkit-transition: all 0.2s;
+	-moz-transition: all 0.2s;
+	-o-transition: all 0.2s;
+	transition: all 0.2s;
+}
+@media screen and (max-width: 480px) {
+    h1{
+    	text-align:center;
+    }
+    content{
+    	margin:0 auto;
+    }
+    .half{
+    	padding-top:0;
+    }
+}
+@media screen and (max-width: 1040px) {
+   #site_wrapper{
+   	margin:0 auto;
+   }
+}
 /*
 
 so in ur css
