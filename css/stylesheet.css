@@ -13,10 +13,47 @@ a{
 	color: ;
 }
 
-.nav{
+nav{
 	text-align: center;
 }
-
+h4{
+	font-family:'sans-serif';
+	font-size: 16px;
+}
 .nav h3{
 	
 }
+
+/*
+
+so in ur css
+youll have like
+@media screen and (max-width: 1040px) {
+basically styles that only are active when the screen is above/below a certain width
+that way u can have it adapt to mobile devices
+so u make ur site
+shrink the browser window
+until it fucks up
+write down the pixel # of where that is
+[6:35] Varinal: interesting
+[6:35] wilblol: and make a media query that adjusts the CSS 
+when u hit that size
+he wants 3 sizes
+so u can do
+desktop, tablet,  phone
+which is like 1440, 960, 480 ish
+
+not shrink necessarily
+but just change it so like
+sometiimes if u have 2 boxes side by side
+it wont fit on a phone
+
+so u stack them on top of each other instead
+so normally u would just put like
+width:50%; float:left;
+and when it gets small
+just do width:100%;
+
+http://www.w3schools.com/tags/tag_meta.asp
+
+*/
