@@ -28,6 +28,17 @@ body{
 	border-radius:10px;
 	
 }
+
+.wrapper2{
+	height:1
+	overflow:auto;
+	width:800px;
+	margin:0 auto;
+	background-color: rgba(255, 255, 255, 0.5);
+	/*margin-top:10%;*/
+	border-radius:10px;
+	
+}
 a{
 	text-decoration:none;
 	cursor:pointer;
