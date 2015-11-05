@@ -93,7 +93,7 @@ footer{
     background-color: rgba(255, 255, 255, 0.5);
 
    }
-   img.resize{
+   .testing{
    	width:50%;
    	height:auto;
    }
@@ -105,7 +105,7 @@ footer{
    html,body{
    	font-size:62.5
    }
-   img.resize{
+   .testing{
    	width:50%;
    	height:auto;
    }
