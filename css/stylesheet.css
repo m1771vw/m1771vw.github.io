@@ -41,6 +41,8 @@ body{
 }
 a{
 	text-decoration:none;
+	font-family:"Lato", sans-serif;
+
 	cursor:pointer;
 }
 .nav_item:hover{
@@ -95,7 +97,7 @@ footer{
    	width:50%;
    	height:auto;
    }
-   .wrapper{
+   .wrapper2{
    	width:50%;
    }
 }
