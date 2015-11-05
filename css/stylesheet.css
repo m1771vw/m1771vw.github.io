@@ -92,6 +92,10 @@ footer{
    html,body{
    	font-size:62.5
    }
+   img.resize{
+   	width:50%;
+   	height:auto;
+   }
 }
 /*----- Accordion -----*/
 .accordion, .accordion * {
