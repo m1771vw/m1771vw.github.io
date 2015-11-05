@@ -98,16 +98,16 @@ footer{
 
    }
    .testing{
-   	width:100%;
+   	width:125%;
    	height:auto;
    }
     img{
-   	width:100%;
+   	width:125%;
    	
    	height:auto;
    }
    .wrapper2{
-   	width:50%;
+   	width:75%;
    }
 }
 @media screen and (max-width: 360) {
