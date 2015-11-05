@@ -18,13 +18,23 @@ body{
 	background-repeat:no-repeat;
 	background-size:cover;
 }
-.wrapper{
+.wrapperHome{
 	height:100%;
 	overflow:auto;
 	width:300px;
 	margin:0 auto;
 	background-color: rgba(255, 255, 255, 0.5);
 	margin-top:10%;
+	border-radius:10px;
+	
+}
+.wrapper2{
+	height:1
+	overflow:auto;
+	width:800px;
+	margin:0 auto;
+	background-color: rgba(255, 255, 255, 0.5);
+	/*margin-top:10%;*/
 	border-radius:10px;
 	
 }
@@ -80,7 +90,7 @@ footer{
     background-color: rgba(255, 255, 255, 0.5);
 
    }
-   img.resize{
+   .testimg{
    	width:50%;
    	height:auto;
    }
@@ -92,7 +102,7 @@ footer{
    html,body{
    	font-size:62.5
    }
-   img.resize{
+   .testimg{
    	width:50%;
    	height:auto;
    }
