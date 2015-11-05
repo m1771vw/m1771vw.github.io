@@ -95,7 +95,7 @@ footer{
    	height:auto;
    }
    .wrapper{
-   	width:100%;
+   	width:50%;
    }
 }
 @media screen and (max-width: 960px) {
