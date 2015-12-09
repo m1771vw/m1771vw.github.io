@@ -31,7 +31,8 @@ body{
 }
 img{
 	width:75%;
-	
+	margin-left:auto;
+  margin-right:auto;
 	height:auto;
 }
 .wrapper2{
@@ -106,7 +107,8 @@ footer{
    }
     img{
    	width:125%;
-   	
+   	margin-left:auto;
+    margin-right:auto;
    	height:auto;
    }
    .wrapper2{
@@ -125,7 +127,8 @@ footer{
    }
     img{
    	width:100%;
-   	
+   	    margin-left:auto;
+    margin-right:auto;
    	height:auto;
    }
    .wrapper2{
@@ -142,7 +145,8 @@ footer{
    }
       img{
    	width:100%;
-   	
+   	    margin-left:auto;
+    margin-right:auto;
    	height:auto;
    }
 }
