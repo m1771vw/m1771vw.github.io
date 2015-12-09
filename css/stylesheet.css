@@ -26,13 +26,14 @@ body{
 	background-color: rgba(255, 255, 255, 0.5);
 	margin-top:10%;
 	border-radius:10px;
+  border: 10px solid #00FFFF;
 	
 }
-   img{
-   	width:25%;
-   	
-   	height:auto;
-   }
+img{
+	width:75%;
+	
+	height:auto;
+}
 .wrapper2{
 	height:1
 	overflow:auto;
@@ -41,7 +42,8 @@ body{
 	background-color: rgba(255, 255, 255, 0.5);
 	/*margin-top:10%;*/
 	border-radius:10px;
-	
+  border: 10px solid #00FFFF;
+
 }
 a{
 	text-decoration:none;
@@ -72,6 +74,7 @@ ul{
 	font-weight:700;
 	color:#5D5D5D;
 	font-size:0.9em;
+  /*border: 10px solid #00ffff;*/
 }
 .nav_item{
 	height:40px;
