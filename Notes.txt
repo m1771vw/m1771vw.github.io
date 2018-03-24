@@ -1,0 +1,2 @@
+python -m http.server <port>
+php -s localhost:8001
